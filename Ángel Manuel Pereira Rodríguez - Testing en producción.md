@@ -96,3 +96,5 @@ Ver el vídeo [test-ghost-inspector.mp4](https://github.com/AngelPereiraR/Testin
 Como se puede comprobar en el vídeo, el test automatizado permite realizar un login de forma correcta, además de navegar a lo largo de la página web.
 
 # Reflexiones finales
+
+Podemos concluir que la usabilidad de esta página web necesita mejoras importantes respecto a la optimización del código y de las imágenes para que la sensación de uso de los usuarios sea más fluida y rápida, sin embargo, ya introduce algunas cosas adecuadas como es el uso de estándares web y en ciertos formatos cumple con varias de las métricas mínimas que debería cumplir.
